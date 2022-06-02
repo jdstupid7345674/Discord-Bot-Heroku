@@ -1,0 +1,7 @@
+{
+  "name": "Discord-Bot",
+  "description": "Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using this link! Also, you can join the official Egglord Support Server for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.",
+  "repository": "https://github.com/jdstupid7345674/Discord-Bot-Heroku",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
