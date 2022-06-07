@@ -28,6 +28,7 @@
   •
   <a href="#credits">Credits</a>
 </p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jdstupid7345674/Discord-Bot-Heroku)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## ❓ About
 
